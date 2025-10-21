@@ -50,3 +50,9 @@ Started looking into how drone propellers work. Found that size and pitch change
 ![Screenshot 2025-10-21 162203.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--f2acfbe977477ebe193623cc27aa058e9e8bb65c/Screenshot%202025-10-21%20162203.png)
   
 
+## 10/21/2025 4:26 PM - Inital Designing CAD Propellers  
+
+After my research, I found two suitable propellers: a Toroidal-style propeller and a normal 2-wing propeller. I created both designs in CAD using Onshape, adjusting their shapes and sizes to fit the drone frame. The designs are ready for the next steps. My second propeeler was really hard to CAD so i used a tutorial to help me a little bit. ![Screenshot 2025-10-21 161340.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--c8aa0a69523a67f940c3b4d2889be47bbcd102a9/Screenshot%202025-10-21%20161340.png)
+![Screenshot 2025-10-21 161733.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--feaeea49fd4e37c833cde6867d7f9ffaa6d5a331/Screenshot%202025-10-21%20161733.png)
+  
+
