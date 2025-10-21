@@ -61,3 +61,8 @@ After my research, I found two suitable propellers: a Toroidal-style propeller a
 I spent about 30 mins looking at both propellers to choose the final one. I didn’t have a 3D printer at home during half-term so I just tried to figure out which one would be better for the drone. After thinking about it, I picked the 2-wing propeller as my final design.![Screenshot 2025-10-21 161733.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--87b9343c5a2b54bfdee97977d8eb23b88ef59889/Screenshot%202025-10-21%20161733.png)
   
 
+## 10/21/2025 4:34 PM - Assembling the Drone on CAD - Onshape  
+
+Next, I worked on putting everything together on Onshape. I started assembling the drone casing and then added the propeller I chose. It was exciting to see how the pieces fit and start looking like a real drone. I made sure the propeller was positioned correctly and everything was tight and balanced. I also checked that the sizes matched the electronics and could handle the weight of everything. I plan to use this drone to check the surroundings and the weather, like for environmental purposes.
+![Screenshot 2025-10-21 161754.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk5NywicHVyIjoiYmxvYl9pZCJ9fQ==--8e9eaba184c71712c823b72e8e869963f943b8b9/Screenshot%202025-10-21%20161754.png)  
+
