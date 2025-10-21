@@ -15,7 +15,7 @@ I’m planing to 3D print my own frame later and maybe even make my own PCB to c
 Spent around 3 to 4 ![Screenshot 2025-10-21 155749.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--b376e2173ae73414502561650d5a479675ec46fb/Screenshot%202025-10-21%20155749.png)
  hour looking at diffrent options and learning how drones are built.  
 
-## 10/21/2025 4 PM - Planning and Sourcing Parts  
+## 10/21/2025 4:02 PM - Planning and Sourcing Parts  
 
 Reaserching the necessory part required for the drone, found a kit which includes these all parts.
 ![Screenshot 2025-10-21 160228.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--bb634346bb1fdb42be93ff759bbb61fde7469f75/Screenshot%202025-10-21%20160228.png)
@@ -35,4 +35,11 @@ Reaserching the necessory part required for the drone, found a kit which include
 Propellers (matched to the motor size)
 
 Screws, wires, connectors, solder, srink tape, etc.  
+
+## 10/21/2025 4:19 PM - Designing the Drone on CAD (Onshape)  
+
+Started designing the drone frame in Onshape, adding mounts for motors, battery, and controller. Tried to make it light and balanced so it can be 3D printed later. I’ll be using PLA since its cheaper and I can ask my school to print it. The CAD for the drone case took longer than I expected because I didn’t have some of the skills needed, so I watched YouTube tutorials about mounting and chamfer tools to help me finish it.
+
+![Screenshot 2025-10-21 161709.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk4NywicHVyIjoiYmxvYl9pZCJ9fQ==--0ad07cc4536efabc97eb13c12f8337b5a8e5832d/Screenshot%202025-10-21%20161709.png)
+  
 
