@@ -17,24 +17,32 @@ Spent around 3 to 4 ![Screenshot 2025-10-21 155749.png](https://blueprint.hackcl
 
 ## 10/21/2025 4:02 PM - Planning and Sourcing Parts  
 
-Reaserching the necessory part required for the drone, found a kit which includes these all parts.
-![Screenshot 2025-10-21 160228.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--bb634346bb1fdb42be93ff759bbb61fde7469f75/Screenshot%202025-10-21%20160228.png)
+I spent some time researching the necessary parts for the drone and found a kit that includes most of what I need:
 
-4 × Brushless DC motors 
+4 × Brushless DC motors
 
 4 × ESCs (Electronic Speed Controllers)
 
-1 × Flight controller (like an F4 or F7 board)
+1 × Flight controller (F4 or F7)
 
-1 × LiPo battery (3S or 4S depending on motor spec)
+1 × LiPo battery (3S or 4S)
 
-1 × Transmitter + Receiver (for remote control)
+1 × Transmitter + Receiver
 
-1 × 3D-printed or carbon fiber frame!!!!!
+1 × 3D-printed or carbon fiber frame
 
 Propellers (matched to the motor size)
 
-Screws, wires, connectors, solder, srink tape, etc.  
+Screws, wires, connectors, solder, shrink tape, etc.
+
+I also plan to add 2 extra components not i![Screenshot 2025-10-21 160228.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--6f6bdbaba58f9a2428a9b1f21114a9e67b890ed4/Screenshot%202025-10-21%20160228.png)
+ncluded in the kit:
+
+Raspberry Pi Pico Mini RP2040-ZERO – a microcontroller board with a dual-core RP2040 processor
+
+GY-BME280-3.3 sensor – digital sensor for temperature, humidity, and barometric pressure (I2C/SPI)
+
+These additions will help me gather environmental data like weather and surroundings while flying the drone.  
 
 ## 10/21/2025 4:19 PM - Designing the Drone on CAD (Onshape)  
 
