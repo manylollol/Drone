@@ -1,0 +1,14 @@
+Component,Quantity,Price (Baht),Price (USD)
+Brushless DC Motors,4,200,5.71
+ESCs (Electronic Speed Controllers),4,100,2.86
+Flight Controller (F4 or F7),1,80,2.29
+LiPo Battery (3S or 4S),1,100,2.86
+Propellers (2-wing),4,50,1.43
+3D-printed Frame,1,50,1.43
+Transmitter + Receiver,1,50,1.43
+Screws, wires, connectors, solder, etc.,1,0,0
+Raspberry Pi Pico Mini RP2040-ZERO,1,60,1.71
+GY-BME280-3.3 Sensor,1,76,2.17
+,,,
+Total (Kit only),,630,18.0
+Total (All items),,766,21.89
