@@ -36,13 +36,6 @@ A small drone built from scratch using 3D-printed parts, brushless motors, and a
 
 ---
 
-## Notes
-- CAD models and propeller designs are included in the `CAD/` folder.  
-- Electronics diagrams and PCB designs are in `Electronics/`.  
-- See `Journal/JournalEntries.md` for the step-by-step design and assembly process.  
-- Check all connections carefully before powering on to prevent damage.  
-- Adjust propeller choice and motor speeds based on testing for optimal lift and stability.  
 
----
 
 
