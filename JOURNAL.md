@@ -43,3 +43,10 @@ Started designing the drone frame in Onshape, adding mounts for motors, battery,
 ![Screenshot 2025-10-21 161709.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk4NywicHVyIjoiYmxvYl9pZCJ9fQ==--0ad07cc4536efabc97eb13c12f8337b5a8e5832d/Screenshot%202025-10-21%20161709.png)
   
 
+## 10/21/2025 4:22 PM - Reaserching Propellers  
+
+Started looking into how drone propellers work. Found that size and pitch changes how fast and stable it flys. Bigger ones give more lift but use more power. Gonna test with 4 small propellers for lighter weight.
+
+![Screenshot 2025-10-21 162203.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--f2acfbe977477ebe193623cc27aa058e9e8bb65c/Screenshot%202025-10-21%20162203.png)
+  
+
