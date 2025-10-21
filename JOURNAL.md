@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/21/2025 - Research  
+## 10/21/2025 3 PM - Research  
 
 I started looking into making my own drone. I found this small DIY drone kit online that got my attention because it already has most of the main parts like motors, propellers, and a controller. I did some reaserch about how drones fly and what parts are important like the flight control board, battery, and how the propellers spin in diffrent directions.
 
@@ -14,4 +14,25 @@ I’m planing to 3D print my own frame later and maybe even make my own PCB to c
 
 Spent around 3 to 4 ![Screenshot 2025-10-21 155749.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--b376e2173ae73414502561650d5a479675ec46fb/Screenshot%202025-10-21%20155749.png)
  hour looking at diffrent options and learning how drones are built.  
+
+## 10/21/2025 4 PM - Planning and Sourcing Parts  
+
+Reaserching the necessory part required for the drone, found a kit which includes these all parts.
+![Screenshot 2025-10-21 160228.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--bb634346bb1fdb42be93ff759bbb61fde7469f75/Screenshot%202025-10-21%20160228.png)
+
+4 × Brushless DC motors 
+
+4 × ESCs (Electronic Speed Controllers)
+
+1 × Flight controller (like an F4 or F7 board)
+
+1 × LiPo battery (3S or 4S depending on motor spec)
+
+1 × Transmitter + Receiver (for remote control)
+
+1 × 3D-printed or carbon fiber frame!!!!!
+
+Propellers (matched to the motor size)
+
+Screws, wires, connectors, solder, srink tape, etc.  
 
